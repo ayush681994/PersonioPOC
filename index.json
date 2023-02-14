@@ -1,0 +1,14 @@
+{
+  "name": "PersonioPOC",
+  "description": "Connector for Personio",
+  "triggers": [],
+  "actions": [
+    "/v1/personiopoc"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "doc_link": "",
+  "appId": "7e3a33c2-e8d5-4081-a7d7-7055175186b8",
+  "guid": "e41d906f-d2ba-438f-9952-d0dc76812457",
+  "connectionUid": "personio-poc-5QHIm0vBj"
+}
